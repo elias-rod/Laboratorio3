@@ -1,0 +1,11 @@
+Z:\ELIAS\app4\app4\bin\Debug\app4.exe.config
+Z:\ELIAS\app4\app4\bin\Debug\app4.exe
+Z:\ELIAS\app4\app4\bin\Debug\app4.pdb
+Z:\ELIAS\app4\app4\obj\Debug\app4.Form1.resources
+Z:\ELIAS\app4\app4\obj\Debug\app4.Properties.Resources.resources
+Z:\ELIAS\app4\app4\obj\Debug\app4.csproj.GenerateResource.Cache
+Z:\ELIAS\app4\app4\obj\Debug\app4.exe
+Z:\ELIAS\app4\app4\obj\Debug\app4.pdb
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app4\app4\bin\Debug\app4.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app4\app4\obj\Debug\app4.exe
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app4\app4\obj\Debug\app4.pdb

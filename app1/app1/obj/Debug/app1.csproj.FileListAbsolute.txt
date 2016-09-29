@@ -1,0 +1,28 @@
+F:\LABORATORIO 3\Apps\app1\app1\bin\Debug\app1.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\bin\Debug\app1.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\bin\Debug\app1.exe
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\bin\Debug\app1.pdb
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\obj\Debug\app1.csprojResolveAssemblyReference.cache
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\obj\Debug\app1.Form1.resources
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\obj\Debug\app1.Properties.Resources.resources
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\obj\Debug\app1.csproj.GenerateResource.Cache
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\obj\Debug\app1.exe
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app1\app1\obj\Debug\app1.pdb
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\bin\Debug\app1.exe.config
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\obj\Debug\app1.exe
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\obj\Debug\app1.pdb
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\bin\Debug\app1.exe
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\bin\Debug\app1.pdb
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\obj\Debug\app1.csprojResolveAssemblyReference.cache
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\obj\Debug\app1.Form1.resources
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\obj\Debug\app1.Properties.Resources.resources
+C:\Users\Jose\Desktop\Laboratorio3Ejercicios-master\app1\app1\obj\Debug\app1.csproj.GenerateResource.Cache
+Z:\ELIAS\app1\app1\bin\Debug\app1.exe.config
+Z:\ELIAS\app1\app1\obj\Debug\app1.exe
+Z:\ELIAS\app1\app1\obj\Debug\app1.pdb
+Z:\ELIAS\app1\app1\bin\Debug\app1.exe
+Z:\ELIAS\app1\app1\bin\Debug\app1.pdb
+Z:\ELIAS\app1\app1\obj\Debug\app1.csprojResolveAssemblyReference.cache
+Z:\ELIAS\app1\app1\obj\Debug\app1.Form1.resources
+Z:\ELIAS\app1\app1\obj\Debug\app1.Properties.Resources.resources
+Z:\ELIAS\app1\app1\obj\Debug\app1.csproj.GenerateResource.Cache

@@ -1,0 +1,1 @@
+﻿public delegate void delegadoPrincipal(Entidades.Alumno miAlumno, System.EventArgs e);

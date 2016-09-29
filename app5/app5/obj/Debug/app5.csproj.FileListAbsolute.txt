@@ -1,0 +1,12 @@
+Z:\ELIAS\app5\app5\bin\Debug\app5.exe.config
+Z:\ELIAS\app5\app5\bin\Debug\app5.exe
+Z:\ELIAS\app5\app5\bin\Debug\app5.pdb
+Z:\ELIAS\app5\app5\obj\Debug\app5.csprojResolveAssemblyReference.cache
+Z:\ELIAS\app5\app5\obj\Debug\app5.Properties.Resources.resources
+Z:\ELIAS\app5\app5\obj\Debug\app5.csproj.GenerateResource.Cache
+Z:\ELIAS\app5\app5\obj\Debug\app5.exe
+Z:\ELIAS\app5\app5\obj\Debug\app5.pdb
+Z:\ELIAS\app5\app5\obj\Debug\app5.Form1.resources
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app5\app5\bin\Debug\app5.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app5\app5\obj\Debug\app5.exe
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app5\app5\obj\Debug\app5.pdb

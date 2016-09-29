@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{88DA36A5-C104-40FF-B403-FFD18BC5AA0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>app9</RootNamespace>
+    <AssemblyName>app9</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\ELIAS\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>3F8DE9B070E8251BB35BCD4E029EA30E4D2BEC41</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>miClaveGuau.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>miClaveGuau.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPrincipal.Designer.cs">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAuto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAuto.Designer.cs">
+      <DependentUpon>FrmAuto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBorrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBorrar.Designer.cs">
+      <DependentUpon>FrmBorrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCamioneta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCamioneta.Designer.cs">
+      <DependentUpon>FrmCamioneta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionAutomovil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionAutomovil.Designer.cs">
+      <DependentUpon>FrmGestionAutomovil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModificar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModificar.Designer.cs">
+      <DependentUpon>FrmModificar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMoto.Designer.cs">
+      <DependentUpon>FrmMoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVehiculo.Designer.cs">
+      <DependentUpon>FrmVehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAuto.resx">
+      <DependentUpon>FrmAuto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBorrar.resx">
+      <DependentUpon>FrmBorrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCamioneta.resx">
+      <DependentUpon>FrmCamioneta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionAutomovil.resx">
+      <DependentUpon>FrmGestionAutomovil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModificar.resx">
+      <DependentUpon>FrmModificar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMoto.resx">
+      <DependentUpon>FrmMoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVehiculo.resx">
+      <DependentUpon>FrmVehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app9_ClaveTemporal.pfx" />
+    <None Include="miClaveGuau.pfx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CarAbout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CarBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Martz90-Hex-Car.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj">
+      <Project>{22e8ebca-a0c0-4018-92d6-d7b4ac5f6739}</Project>
+      <Name>ClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beautiful-Motorbike-of-2012-Yamaha-and-Star-Motorcycles-Model-630x393.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Polarizado-para-Camioneta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\r8-coupe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,9 @@
+Z:\ELIAS\app3\app3\bin\Debug\app3.exe.config
+Z:\ELIAS\app3\app3\bin\Debug\app3.exe
+Z:\ELIAS\app3\app3\bin\Debug\app3.pdb
+Z:\ELIAS\app3\app3\obj\Debug\app3.csprojResolveAssemblyReference.cache
+Z:\ELIAS\app3\app3\obj\Debug\app3.FormManejo.resources
+Z:\ELIAS\app3\app3\obj\Debug\app3.Properties.Resources.resources
+Z:\ELIAS\app3\app3\obj\Debug\app3.csproj.GenerateResource.Cache
+Z:\ELIAS\app3\app3\obj\Debug\app3.exe
+Z:\ELIAS\app3\app3\obj\Debug\app3.pdb

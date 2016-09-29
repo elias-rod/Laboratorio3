@@ -1,0 +1,10 @@
+F:\LABORATORIO 3\Generica\Generica\bin\Debug\Generica.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\bin\Debug\Generica.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\obj\Debug\Generica.csprojResolveAssemblyReference.cache
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\obj\Debug\Generica.Form1.resources
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\obj\Debug\Generica.Properties.Resources.resources
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\obj\Debug\Generica.csproj.GenerateResource.Cache
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\bin\Debug\Generica.exe
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\bin\Debug\Generica.pdb
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\obj\Debug\Generica.exe
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Calculadora\Generica\obj\Debug\Generica.pdb

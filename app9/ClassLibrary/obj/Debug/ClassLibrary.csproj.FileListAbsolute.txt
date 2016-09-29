@@ -1,0 +1,4 @@
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app9\ClassLibrary\bin\Debug\ClassLibrary.dll
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app9\ClassLibrary\bin\Debug\ClassLibrary.pdb
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app9\ClassLibrary\obj\Debug\ClassLibrary.dll
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\app9\ClassLibrary\obj\Debug\ClassLibrary.pdb

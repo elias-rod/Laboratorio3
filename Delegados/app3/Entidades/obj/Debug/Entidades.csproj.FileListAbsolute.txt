@@ -1,0 +1,5 @@
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Entidades\bin\Debug\Entidades.dll
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Entidades\bin\Debug\Entidades.pdb
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Entidades\obj\Debug\Entidades.dll
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Entidades\obj\Debug\Entidades.pdb

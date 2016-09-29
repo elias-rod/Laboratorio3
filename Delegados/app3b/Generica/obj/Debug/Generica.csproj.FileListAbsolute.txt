@@ -1,0 +1,14 @@
+F:\LABORATORIO 3\Generica\Generica\bin\Debug\Generica.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\bin\Debug\Generica.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\bin\Debug\Generica.exe
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\bin\Debug\Generica.pdb
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\obj\Debug\Generica.csprojResolveAssemblyReference.cache
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\obj\Debug\Generica.frmAltaAlumno.resources
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\obj\Debug\Generica.Properties.Resources.resources
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\obj\Debug\Generica.csproj.GenerateResource.Cache
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\obj\Debug\Generica.exe
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\obj\Debug\Generica.pdb
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\bin\Debug\Entidades.dll
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\bin\Debug\Entidades.pdb
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\obj\Debug\Generica.frmDatosAlumno.resources
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\Delegados\app3\Generica\obj\Debug\Generica.frmPrincipal.resources

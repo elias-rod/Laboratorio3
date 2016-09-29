@@ -1,0 +1,2 @@
+F:\LABORATORIO 3\Generica\Generica\bin\Debug\Generica.exe.config
+Z:\CARRERA\CUATRIMESTRE 3\LABORATORIO 3\Apps\CajeroAutomatico\Generica\bin\Debug\Generica.exe.config

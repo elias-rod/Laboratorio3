@@ -1,0 +1,9 @@
+Z:\ELIAS\app2\app2\bin\Debug\app2.exe.config
+Z:\ELIAS\app2\app2\bin\Debug\app2.exe
+Z:\ELIAS\app2\app2\bin\Debug\app2.pdb
+Z:\ELIAS\app2\app2\obj\Debug\app2.csprojResolveAssemblyReference.cache
+Z:\ELIAS\app2\app2\obj\Debug\app2.foDescuento.resources
+Z:\ELIAS\app2\app2\obj\Debug\app2.Properties.Resources.resources
+Z:\ELIAS\app2\app2\obj\Debug\app2.csproj.GenerateResource.Cache
+Z:\ELIAS\app2\app2\obj\Debug\app2.exe
+Z:\ELIAS\app2\app2\obj\Debug\app2.pdb
